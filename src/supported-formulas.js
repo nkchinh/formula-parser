@@ -389,6 +389,8 @@ const SUPPORTED_FORMULAS = [
   'XOR',
   'YEAR',
   'YEARFRAC',
+  // htxh function
+  'DBIND',
 ];
 
 export default SUPPORTED_FORMULAS;
